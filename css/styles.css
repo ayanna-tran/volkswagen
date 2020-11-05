@@ -1,0 +1,55 @@
+/* HEADER */
+header {
+  text-align: center;
+}
+header img {
+  max-width: 90px;
+}
+header#logo a { display: block; }
+
+/* FOOTER */
+footer {
+  color: #fff;
+  font-size: 0.75rem;
+}
+footer .inner-footer {
+  margin: 0 auto;
+  padding: 0.5rem;
+  color:  #7b7b7b;
+}
+footer .menu-footer {
+  padding: 1rem 0;
+  border-bottom: 1px solid #7b7b7b;
+}
+footer .menu-footer h3 {
+  color: #30a4cc
+}
+footer .menu-footer iframe {
+  width: 100%;
+  max-height: 250px;
+}
+
+/* Tablet - Ipad */
+@media screen and (min-width: 768px) {
+  header img {
+    max-width: 120px;
+  }
+}
+
+/* Desktop */
+@media screen and (min-width: 998px) {
+  header {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    width: 120px;
+    height: 120px;
+    z-index: 99;
+  }
+  main {
+    position: relative;
+  }
+  footer {
+    font-size: 1rem;
+  }
+}
