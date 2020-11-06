@@ -77,66 +77,9 @@
       </div>
     </div> -->
 
-    <div class="product v-block">
-      <div class="v-block__title">SẢN PHẨM</div>
-      <div class="v-block__inner">
-        <div class="container-md">
-          <div class="product-item">
-            <div class="row">
-              <div class="col-md-6">
-                <h2><a href="./tiguan.html">TIGUAN LUXURY ALLSPACE</a></h2>
-                <p>Giá niêm yết: <span class="price">1.799.000.000</span></p>
-              </div>
-              <div class="col-md-6">
-                <a href="./tiguan.html"><img class="product-image" src="./images/products/Tiguan-2.png" alt="TIGUAN LUXURY ALLSPACE" /></a>
-              </div>
-            </div>
-          </div>
-          <div class="product-item">
-            <div class="row">
-              <div class="col-md-6">
-                <h2><a href="./passat.html">PASSSAT BLUEMOTION</a></h2>
-                <p>Giá niêm yết: <span class="price">1.480.000.000</span></p>
-              </div>
-              <div class="col-md-6">
-                <a href="./passat.html"><img class="product-image" src="./images/products/passat-1.png" alt="PASSSAT BLUEMOTION" /></a>
-              </div>
-            </div>
-          </div>
-          <div class="product-item">
-            <div class="row">
-              <div class="col-md-6">
-                <h2><a href="./polo.html">POLO HATCHBACK</a></h2>
-                <p>Giá niêm yết: <span class="price">695.000.000</span></p>
-              </div>
-              <div class="col-md-6">
-                <a href="./polo.html"><img class="product-image" src="./images/products/polo-1.png" alt="POLO HATCHBACK" /></a>
-              </div>
-            </div>
-          </div>
-          <div class="product-item">
-            <div class="row">
-              <div class="col-md-6">
-                <h2><a href="./touareg.html">TOUAREG</a></h2>
-                <p>Giá niêm yết: <span class="price">3.099.000.000</span></p>
-              </div>
-              <div class="col-md-6">
-                <a href="./touareg.html"><img class="product-image" src="./images/products/Touareg-2.png" alt="TOUAREG" /></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <h2 class="text-center text-color-red">TIGUAN LUXURY ALLSPACE</h2>
+    <div class="text-center"><img class="product-image" src="./images/tiguan.png" alt="TIGUAN LUXURY" width="100%" /></div>
 
-    <div class="signin v-block">
-      <div class="v-block__title">ĐĂNG KÝ LÁI THỬ XE</div>
-      <div class="v-block__inner text-center">
-        Gọi ngay cho Duy để nhận được nhiều quà tặng <a href="tel:090 734 33 71">090 734 33 71</a>
-      </div>
-    </div>
-
-    <div class="product-list"></div>
   </main>
   <footer class="bg-blue-dark">
     <div class="menu-footer">
