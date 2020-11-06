@@ -28,6 +28,10 @@ footer .menu-footer iframe {
   width: 100%;
   max-height: 250px;
 }
+footer .menu-footer .fb_iframe_widget {
+  max-height: 250px;
+  overflow: hidden;
+}
 
 .product-item {
   padding: 1rem 0;
