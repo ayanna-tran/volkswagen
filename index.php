@@ -41,7 +41,7 @@
         <div class="carousel-item active">
           <img src="./images/slide2.png" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Duy - 090.734.33.71</h5>
+            <h5>Mr Duy - 090.734.33.71</h5>
             <p>Nhận nhiều ưu đãi lớn</p>
           </div>
         </div>
@@ -84,44 +84,44 @@
           <div class="product-item">
             <div class="row">
               <div class="col-md-6">
-                <h2>TIGUAN LUXURY ALLSPACE</h2>
+                <h2><a href="./tiguan.php">TIGUAN LUXURY ALLSPACE</a></h2>
                 <p>Giá niêm yết: <span class="price">1.799.000.000</span></p>
               </div>
               <div class="col-md-6">
-                <img class="product-image" src="./images/products/Tiguan-2.png" alt="TIGUAN LUXURY ALLSPACE" />
+                <a href="./tiguan.php"><img class="product-image" src="./images/products/Tiguan-2.png" alt="TIGUAN LUXURY ALLSPACE" /></a>
               </div>
             </div>
           </div>
           <div class="product-item">
             <div class="row">
               <div class="col-md-6">
-                <h2>PASSSAT BLUEMOTION</h2>
+                <h2><a href="./passat.php">PASSSAT BLUEMOTION</a></h2>
                 <p>Giá niêm yết: <span class="price">1.480.000.000</span></p>
               </div>
               <div class="col-md-6">
-                <img class="product-image" src="./images/products/passat-1.png" alt="PASSSAT BLUEMOTION" />
+                <a href="./passat.php"><img class="product-image" src="./images/products/passat-1.png" alt="PASSSAT BLUEMOTION" /></a>
               </div>
             </div>
           </div>
           <div class="product-item">
             <div class="row">
               <div class="col-md-6">
-                <h2>POLO HATCHBACK</h2>
+                <h2><a href="./polo.php">POLO HATCHBACK</a></h2>
                 <p>Giá niêm yết: <span class="price">695.000.000</span></p>
               </div>
               <div class="col-md-6">
-                <img class="product-image" src="./images/products/polo-1.png" alt="POLO HATCHBACK" />
+                <a href="./polo.php"><img class="product-image" src="./images/products/polo-1.png" alt="POLO HATCHBACK" /></a>
               </div>
             </div>
           </div>
           <div class="product-item">
             <div class="row">
               <div class="col-md-6">
-                <h2>TOUAREG</h2>
+                <h2><a href="./touareg.php">TOUAREG</a></h2>
                 <p>Giá niêm yết: <span class="price">3.099.000.000</span></p>
               </div>
               <div class="col-md-6">
-                <img class="product-image" src="./images/products/Touareg-2.png" alt="TOUAREG" />
+                <a href="./touareg.php"><img class="product-image" src="./images/products/Touareg-2.png" alt="TOUAREG" /></a>
               </div>
             </div>
           </div>
