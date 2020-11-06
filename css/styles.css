@@ -18,7 +18,7 @@ footer .inner-footer {
   color:  #7b7b7b;
 }
 footer .menu-footer {
-  padding: 1rem 0;
+  padding: 2rem 0;
   border-bottom: 1px solid #7b7b7b;
 }
 footer .menu-footer h3 {
@@ -29,10 +29,29 @@ footer .menu-footer iframe {
   max-height: 250px;
 }
 
+.product-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #7b7b7b;
+}
+.product-item:last-child {
+  border-bottom: none;
+}
+.product-item .row {
+  align-items: center;
+}
+.product-item .price {
+  color: red;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
 /* Tablet - Ipad */
 @media screen and (min-width: 768px) {
   header img {
     max-width: 120px;
+  }
+  .product-item:nth-child(2n) .row {
+    flex-direction: row-reverse;
   }
 }
 
