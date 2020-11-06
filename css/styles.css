@@ -32,6 +32,7 @@ footer .menu-footer iframe {
 .product-item {
   padding: 1rem 0;
   border-bottom: 1px solid #7b7b7b;
+  text-align: center;
 }
 .product-item:last-child {
   border-bottom: none;
@@ -44,11 +45,17 @@ footer .menu-footer iframe {
   font-weight: bold;
   font-size: 1.5rem;
 }
+.product-item .product-image {
+  width: 100%;
+}
 
 /* Tablet - Ipad */
 @media screen and (min-width: 768px) {
   header img {
     max-width: 120px;
+  }
+  .product-item {
+    text-align: left;
   }
   .product-item:nth-child(2n) .row {
     flex-direction: row-reverse;
