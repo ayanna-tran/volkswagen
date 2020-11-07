@@ -26,9 +26,11 @@
   <?php include 'header.php';?>
   <main>
     <?php
-      $strPassat = file_get_contents("./json/passat.json");
+      $strPassat = file_get_contents("/json/passat.json");
       $contentPassat = json_decode($strPassat, true);
 
+      echo file_get_contents("/json/passat.json");
+      echo file_get_contents("./json/passat.json");
       echo $contentPassat;
       var_dump(json_decode($strPassat, true));
       var_dump(json_decode($strPassat));
