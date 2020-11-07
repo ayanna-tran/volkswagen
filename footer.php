@@ -2,7 +2,7 @@
   <div class="menu-footer">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 d-sm-none d-md-none d-lg-block">
+        <div class="col-lg-4 d-none d-lg-block">
           <h3>FANPAGE FACEBOOK</h3>
           <div class="fb-page" data-href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" data-tabs="timeline" data-width="200" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/">Duy_Volkswagen Bình Dương</a></blockquote></div>
         </div>
