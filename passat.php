@@ -29,13 +29,15 @@
       $strPassat = file_get_contents("./json/passat.json");
       $contentPassat = json_decode($strPassat, true);
       echo '2<br/>';
-      echo file_get_contents("./json/passat.json");
+      echo $strPassat;
       echo '<br/>3<br/>';
-      echo print_r($contentPassat, true);
+      var_dump($strPassat);
       echo '<br/>4<br/>';
       echo json_decode($strPassat, true);
       echo '<br/>5<br/>';
       echo json_decode($strPassat);
+      echo '<br/>6<br/>';
+      echo $contentPassat["name"];
 
       echo "<h2 class='text-center text-color-red'>".$contentPassat["name"]."</h2>";
       echo "<h3 class='text-center'>".$contentPassat["subName"]."</h3>";
