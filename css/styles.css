@@ -53,22 +53,10 @@ footer .menu-footer .fb_iframe_widget {
   width: 100%;
 }
 
-/* Tablet - Ipad */
-@media screen and (min-width: 768px) {
-  header img {
-    max-width: 120px;
-  }
-  .product-item {
-    text-align: left;
-  }
-  .product-item:nth-child(2n) .row {
-    flex-direction: row-reverse;
-  }
-}
-
 .menu-product {
   display: flex;
   list-style: none;
+  border: 1px solid #dedede;
 }
 .menu-product li {
   padding: 0.5rem;
@@ -82,6 +70,8 @@ footer .menu-footer .fb_iframe_widget {
   border-bottom: 1px solid #dedede;
   display: flex;
   padding: 0.5rem;
+  justify-content: space-between;
+  align-items: center;
 }
 .r-content .r-titlet {
   border-right: 1px solid #dedede;
@@ -97,16 +87,23 @@ footer .menu-footer .fb_iframe_widget {
 .content-block h4 {
   text-decoration: underline;
   padding: 0 0.5rem;
+  margin-top: 0.5rem;
 }
 
 .prom-block {
   margin: 2rem auto;
   border-radius: 8px;
-  color: red;
+  color: white;
   font-weight: bold;
+  background: red;
   padding: 1rem;
 }
 .prom-block ul {
+  border: 5px solid #fff;
+  padding: 2rem;
+  margin: 0;
+}
+.prom-block ul ol {
   list-style-type: upper-roman;
 }
 
@@ -114,13 +111,27 @@ footer .menu-footer .fb_iframe_widget {
   width: 100%;
 }
 .gallarys {
+  margin: 1rem 0;
   display: flex;
   flex-wrap: wrap;
 }
 
 .gallarys .photo {
   width: 48%;
-  margin: 0 1%;
+  margin: 0.5rem 1%;
+}
+
+/* Tablet - Ipad */
+@media screen and (min-width: 768px) {
+  header img {
+    max-width: 120px;
+  }
+  .product-item {
+    text-align: left;
+  }
+  .product-item:nth-child(2n) .row {
+    flex-direction: row-reverse;
+  }
 }
 
 /* Desktop */
@@ -141,5 +152,8 @@ footer .menu-footer .fb_iframe_widget {
   }
   .prom-block {
     width: 75%;
+  }
+  .prom-block ul ol {
+    font-size: 2rem;
   }
 }
