@@ -92,6 +92,12 @@
               <li>Khoang hành lý rộng rãi đủ cho 12 vali cở trung hoặc 4 túi golf lớn</li>
               <li>Bánh dự phòng được sắp sếp gọn gàng ẩn dưới sàn khoang hành lý</li>
             </ul>
+            <div class="gallarys">
+              <div class="photo"><img src="./images/passat/noi-that-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+            </div>
           </div>
         </div>
 
@@ -168,8 +174,10 @@
           <h3 class="title-block">AN TOÀN</h3>
           <div class="content-block">
             <p>- Khung và gầm xe làm từ thép Đức có độ cứng cao. Về công nghệ luyện kim Đức được sếp hàng đầu thế giới. gầm xe được phủ lớp sáp chống ăn mòn nước mặn giúp xe khó bị gỉ sét khi vận hành.</p>
-            <p>-Thiết kế động cơ sẽ có xu hướng rơi xuống và vô lăng tự thu và bung túi khí khi sảy ra va chạm giúp hạn chế chấn thương cho hành khách.</p>    
+            <div class="photo"><img src="./images/passat/an-toan.png" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+            <p>-Thiết kế động cơ sẽ có xu hướng rơi xuống và vô lăng tự thu và bung túi khí khi sảy ra va chạm giúp hạn chế chấn thương cho hành khách.</p> 
             <p>- Hệ thống 6 túi khí theo công nghệ Đức được thiết kế và vận hành tốt, ngoài ra túi khí hành khách có thể khóa hoặc mở khóa giúp hạn chế tổn phí nếu như trường hợp va chạm sảy ra.</p>
+            <div class="photo"><img src="./images/passat/an-toan-02.png" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
             <h4>Ngoài ra Passat có có tiện nghi và hệ thống an toàn khác như.</h4>
             <ul>
               <li>Hệ thống cảnh báo điểm mù</li>
