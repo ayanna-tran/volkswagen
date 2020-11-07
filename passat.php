@@ -27,10 +27,23 @@
   <main>
     <?php
       $contentPassat = file_get_contents("/json/passat.json", true);
-      echo $homepage;
+      echo $contentPassat;
     ?>
     <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
-    <div class="text-center"><img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" /></div>
+    <div class="container-lg">
+      <div class="cover-product">
+        <img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" />
+      </div>
+      <ul class="menu-product">
+        <li><a href="#tong-quat">Tổng Quang</a></li>  
+      </ul>
+      <div class="main-product">
+        <div id="tong-quan" class="block-product">
+          <h3 class="title-block">TỔNG QUANG</h3>
+          <div class="content-block"></div>
+        </div>
+      </div>
+    </div>
   </main>
   <?php include 'footer.php';?>
 </body>
