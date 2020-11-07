@@ -26,7 +26,7 @@
   <?php include 'header.php';?>
   <main>
     <?php
-      $contentPassat = file_get_contents("/json/passat.json", true);
+      $contentPassat = file_get_contents("./json/passat.json", true);
 
 
       echo $contentPassat;
