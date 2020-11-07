@@ -33,11 +33,11 @@
 
       <div class="prom-block">
         <ul>
-          <ol>TẶNG TIỀN MẶT 177 TRIỆU  (CHỈ TRONG THÁNG 11)</ol>
-          <ol>TẶNG 1 NĂM BẢO DƯỠNG MIỄN PHÍ</ol>
-          <ol>TẶNG PHỦ NANO TOÀN THÂN XE</ol>
-          <ol>TẶNG DÁN FILM CÁCH NHIỆT 3M CHÍNH HÃNG</ol>
-          <ol>TẶNG BẢO TRÌ XE TRỌN ĐỜI</ol>
+          <li>TẶNG TIỀN MẶT 177 TRIỆU  (CHỈ TRONG THÁNG 11)</li>
+          <li>TẶNG 1 NĂM BẢO DƯỠNG MIỄN PHÍ</li>
+          <li>TẶNG PHỦ NANO TOÀN THÂN XE</li>
+          <li>TẶNG DÁN FILM CÁCH NHIỆT 3M CHÍNH HÃNG</li>
+          <li>TẶNG BẢO TRÌ XE TRỌN ĐỜI</li>
         </ul>
       </div>
 
@@ -101,65 +101,65 @@
             <h4>Động cơ</h4>
             <div class="r-content">
               <div class="r-title">Loại động cơ</div>
-              <div class="r-content">TSI turbo tăng áp, phun nhiên liệu trực tiếp</div>
+              <div class="r-text">TSI turbo tăng áp, phun nhiên liệu trực tiếp</div>
             </div>
             <div class="r-content">
               <div class="r-title">Dung tích</div>
-              <div class="r-content">1798 cc</div>
+              <div class="r-text">1798 cc</div>
             </div>
             <div class="r-content">
               <div class="r-title">Công suất cực đại (Hp/rpm)</div>
-              <div class="r-content">180</div>
+              <div class="r-text">180</div>
             </div>
             <div class="r-content">
               <div class="r-title">Mômen xoắn cực đại (Nm/rpm)</div>
-              <div class="r-content">250 / 1500-5000</div>
+              <div class="r-text">250 / 1500-5000</div>
             </div>
             <div class="r-content">
               <div class="r-title">Hộp số</div>
-              <div class="r-content">Tự động ly hợp kép 7 cấp</div>
+              <div class="r-text">Tự động ly hợp kép 7 cấp</div>
             </div>
             <div class="r-content">
               <div class="r-title">Loại nhiên liệu</div>
-              <div class="r-content">Xăng chỉ số octan 95 trở lên</div>
+              <div class="r-text">Xăng chỉ số octan 95 trở lên</div>
             </div>
             <h4>Vận hành</h4>
             <div class="r-content">
               <div class="r-title">Dẫn động</div>
-              <div class="r-content">Cầu trước</div>
+              <div class="r-text">Cầu trước</div>
             </div>
             <div class="r-content">
               <div class="r-title">Tốc độ tối đa</div>
-              <div class="r-content">232 km/h</div>
+              <div class="r-text">232 km/h</div>
             </div>
             <div class="r-content">
               <div class="r-title">Gia tốc 0-100km/h</div>
-              <div class="r-content">7.9 giây</div>
+              <div class="r-text">7.9 giây</div>
             </div>
             <h4>Kích thước</h4>
             <div class="r-content">
               <div class="r-title">Kích thước tổng thể DxRxC (mm)</div>
-              <div class="r-content">4767 x 1832 x 1456</div>
+              <div class="r-text">4767 x 1832 x 1456</div>
             </div>
             <div class="r-content">
               <div class="r-title">Chiều dài cơ sở (mm)</div>
-              <div class="r-content">2791</div>
+              <div class="r-text">2791</div>
             </div>
             <div class="r-content">
               <div class="r-title">Chiều rộng cơ sở (Trước/Sau) (mm)</div>
-              <div class="r-content">1,584/1,568</div>
+              <div class="r-text">1,584/1,568</div>
             </div>
             <div class="r-content">
               <div class="r-title">Thông số lốp</div>
-              <div class="r-content">235/45-R18</div>
+              <div class="r-text">235/45-R18</div>
             </div>
             <div class="r-content">
               <div class="r-title">Đường kính quay vòng (m)</div>
-              <div class="r-content">5,7</div>
+              <div class="r-text">5,7</div>
             </div>
             <div class="r-content">
               <div class="r-title">Tự trọng (kg)</div>
-              <div class="r-content">1,480</div>
+              <div class="r-text">1,480</div>
             </div>
           </div>
         </div>
