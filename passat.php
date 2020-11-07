@@ -26,10 +26,13 @@
   <?php include 'header.php';?>
   <main>
     <?php
-      $strPassat = file_get_contents("./json/passat.json", true);
+      $strPassat = file_get_contents("./json/passat.json");
       $contentPassat = json_decode($strPassat, true);
 
       echo $contentPassat;
+      var_dump(json_decode($strPassat, true));
+      var_dump(json_decode($strPassat));
+
       echo "<h2 class='text-center text-color-red'>".$contentPassat["name"]."</h2>";
       echo "<h3 class='text-center'>".$contentPassat["subName"]."</h3>";
 
