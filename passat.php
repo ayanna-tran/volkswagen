@@ -29,9 +29,13 @@
       $strPassat = file_get_contents("/json/passat.json");
       $contentPassat = json_decode($strPassat, true);
 
+      echo '1';
       echo file_get_contents("/json/passat.json");
+      echo '2';
       echo file_get_contents("./json/passat.json");
-      echo $contentPassat;
+      echo '3';
+      echo print_r($contentPassat, true);
+      echo '4';
       var_dump(json_decode($strPassat, true));
       var_dump(json_decode($strPassat));
 
