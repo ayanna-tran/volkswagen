@@ -25,12 +25,37 @@
 <body>
   <?php include 'header.php';?>
   <main>
-    <?php
-      $contentPassat = file_get_contents("/json/passat.json", true);
-      echo $homepage;
-    ?>
-    <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
-    <div class="text-center"><img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" /></div>
+    <div class="contact-page v-block">
+      <div class="v-block__title">LIÊN HỆ</div>
+      <div class="v-block__inner">
+        <div class="container-md">
+          <p>Quý khách cần thêm bất kì thông tin về xe hoặc có nhu cầu lái thử xe, đừng ngừng ngại liên lạc ngay với DUY theo số điện thoại <a href="tel:090 734 33 71">090 734 33 71</a> </p>
+          <p>Hoặc theo biểu mẫu bên dưới</p>
+          <form action="signup.php" method="POST">
+            <div class="row">
+              <div class="col-sm-12">
+                <span style="color:red">* Những thông tin bắt buộc</span>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-sm-12">Họ và tên <span style="color:red">*</span></div>
+              <div class="col-md-8 col-sm-12"><input type="text" name="username" /></div>
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-sm-12">Số điện thoại <span style="color:red">*</span></div>
+              <div class="col-md-8 col-sm-12"><input type="text" name="phone" /></div>
+            </div>
+            <div class="row">
+              <div class="col-md-4 col-sm-12">Loại xe quan tâm <span style="color:red">*</span></div>
+              <div class="col-md-8 col-sm-12"><textarea type="text" name="noted"></textarea></div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12"><input type="submit" value="Register" /></div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
   </main>
   <?php include 'footer.php';?>
 </body>
