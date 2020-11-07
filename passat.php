@@ -26,12 +26,18 @@
   <?php include 'header.php';?>
   <main>
     <?php
-      $contentPassat = file_get_contents("./json/passat.json", true);
-
+      $strPassat = file_get_contents("./json/passat.json", true);
+      $contentPassat = json_decode($strPassat, true);
 
       echo $contentPassat;
       echo "<h2 class='text-center text-color-red'>".$contentPassat["name"]."</h2>";
       echo "<h3 class='text-center'>".$contentPassat["subName"]."</h3>";
+
+      echo "<ul class='menu-product'>";
+      foreach ($contentPassat["main"] as $item) {
+        echo "<li><a href='#".$item["id"]."'>".$item["title"]."</a></li>";
+      };
+      echo "</ul>";
 
     ?>
     <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
