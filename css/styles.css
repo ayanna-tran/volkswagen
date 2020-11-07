@@ -68,6 +68,7 @@ footer .menu-footer .fb_iframe_widget {
 
 .menu-product {
   display: flex;
+  list-style: none;
 }
 .menu-product li {
   padding: 0.5rem;
@@ -80,10 +81,14 @@ footer .menu-footer .fb_iframe_widget {
 .r-content {
   border-bottom: 1px solid #dedede;
   display: flex;
+  padding: 0.5rem;
 }
 .r-content .r-titlet {
   border-right: 1px solid #dedede;
-  width: 25%;
+  width: 35%;
+}
+.r-content .r-content {
+  width: 64%;
 }
 .r-content:last-child {
   border-bottom: none;
@@ -95,17 +100,25 @@ footer .menu-footer .fb_iframe_widget {
 }
 
 .prom-block {
+  margin: 2rem auto;
   border-radius: 8px;
-  background-color: blue;
   color: red;
+  font-weight: bold;
+  padding: 1rem;
+}
+.prom-block ul {
+  list-style-type: upper-roman;
 }
 
+.photo img {
+  width: 100%;
+}
 .gallarys {
   display: flex;
   flex-wrap: wrap;
 }
 
-.gallarys img {
+.gallarys .photo {
   width: 48%;
   margin: 0 1%;
 }
@@ -125,5 +138,8 @@ footer .menu-footer .fb_iframe_widget {
   }
   footer {
     font-size: 1rem;
+  }
+  .prom-block {
+    width: 75%;
   }
 }
