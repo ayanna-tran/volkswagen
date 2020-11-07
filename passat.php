@@ -42,6 +42,14 @@
       };
       echo "</ul>";
 
+      echo "<div class='main-product'>";
+      foreach ($contentPassat["main"] as $item) {
+        echo "<div id='".$item["id"]." class='block-product'>";
+        echo "<h3 class='title-block'>".$item["title"]."</h3>";
+        echo "<div class='content-block'>".$item["content"];
+        echo "</div></div>";
+      };
+      echo "</div>";
     ?>
     <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
     <div class="container-lg">
