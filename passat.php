@@ -72,14 +72,15 @@
               <li>Thân xe với những đường vân dập nổi mạnh mẽ</li>
               <li>Thiết kế khí động học giúp xe lướt gió và dễ dàng tăng tốc độ</li>
             </ul>
-            <img src="./images/passat/ngoai-that.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+            <div class="photo">
+            <img src="./images/passat/ngoai-that.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
             <div class="gallarys">
-              <img src="./images/passat/ngoai-that-small-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
-              <img src="./images/passat/ngoai-that-small-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
-              <img src="./images/passat/ngoai-that-small-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
-              <img src="./images/passat/ngoai-that-small-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
-              <img src="./images/passat/ngoai-that-small-05.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
-              <img src="./images/passat/ngoai-that-small-06.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <div class="photo"><img src="./images/passat/ngoai-that-small-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-05.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-06.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
             </div>
             <h4>Nội thất</h4>
             <ul>
@@ -112,7 +113,7 @@
             </div>
             <div class="r-content">
               <div class="r-title">Mômen xoắn cực đại (Nm/rpm)</div>
-              <div class="r-content">250/1500-5000</div>
+              <div class="r-content">250 / 1500-5000</div>
             </div>
             <div class="r-content">
               <div class="r-title">Hộp số</div>
