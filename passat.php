@@ -30,8 +30,22 @@
       <div class="cover-product">
         <img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" />
       </div>
+
+      <div class="prom-block">
+        <ul>
+          <ol>TẶNG TIỀN MẶT 177 TRIỆU  (CHỈ TRONG THÁNG 11)</ol>
+          <ol>TẶNG 1 NĂM BẢO DƯỠNG MIỄN PHÍ</ol>
+          <ol>TẶNG PHỦ NANO TOÀN THÂN XE</ol>
+          <ol>TẶNG DÁN FILM CÁCH NHIỆT 3M CHÍNH HÃNG</ol>
+          <ol>TẶNG BẢO TRÌ XE TRỌN ĐỜI</ol>
+        </ul>
+      </div>
+
       <ul class="menu-product">
-        <li><a href="#tong-quan">Tổng Quan</a></li>  
+        <li><a href="#tong-quan">Tổng Quan</a></li>
+        <li><a href="#thiet-ke">Thiết kế</a></li> 
+        <li><a href="#thong-so-ky-thuat">Thông số kỹ thuật</a></li> 
+        <li><a href="#an-toan">An toàn</a></li> 
       </ul>
       <div class="main-product">
         <div id="tong-quan" class="block-product">
@@ -58,6 +72,15 @@
               <li>Thân xe với những đường vân dập nổi mạnh mẽ</li>
               <li>Thiết kế khí động học giúp xe lướt gió và dễ dàng tăng tốc độ</li>
             </ul>
+            <img src="./images/passat/ngoai-that.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+            <div class="gallarys">
+              <img src="./images/passat/ngoai-that-small-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <img src="./images/passat/ngoai-that-small-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <img src="./images/passat/ngoai-that-small-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <img src="./images/passat/ngoai-that-small-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <img src="./images/passat/ngoai-that-small-05.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+              <img src="./images/passat/ngoai-that-small-06.jpg" alt="Ngoại Thất Passat Bluemotion 2020" />
+            </div>
             <h4>Nội thất</h4>
             <ul>
               <li>Nội thất thiết kế hài hòa, thanh lịch, với ghế bọc da cao cấp</li>
