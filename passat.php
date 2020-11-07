@@ -27,7 +27,7 @@
   <main>
     <?php
       $strPassat = file_get_contents("./json/passat.json");
-      $contentPassat = json_decode($strPassat, true);
+      $contentPassat = json_decode($strPassat);
       $result = printValues($contentPassat);
 
       echo '2<br/>';
