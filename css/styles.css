@@ -66,6 +66,50 @@ footer .menu-footer .fb_iframe_widget {
   }
 }
 
+.menu-product {
+  display: flex;
+}
+.menu-product li {
+  padding: 0.5rem;
+  border-right: 1px solid #dedede;
+}
+.menu-product li:last-child {
+  border-right: none;
+}
+
+.r-content {
+  border-bottom: 1px solid #dedede;
+  display: flex;
+}
+.r-content .r-titlet {
+  border-right: 1px solid #dedede;
+  width: 25%;
+}
+.r-content:last-child {
+  border-bottom: none;
+}
+
+.content-block h4 {
+  text-decoration: underline;
+  padding: 0 0.5rem;
+}
+
+.prom-block {
+  border-radius: 8px;
+  background-color: blue;
+  color: red;
+}
+
+.gallarys {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallarys img {
+  width: 48%;
+  margin: 0 1%;
+}
+
 /* Desktop */
 @media screen and (min-width: 998px) {
   header {
