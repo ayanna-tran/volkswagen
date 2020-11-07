@@ -28,7 +28,6 @@
     <?php
       $strPassat = file_get_contents("./json/passat.json");
       $contentPassat = json_decode($strPassat);
-      $result = printValues($contentPassat);
 
       echo '2<br/>';
       echo $strPassat;
@@ -40,8 +39,6 @@
       echo json_decode($strPassat, true);
       echo '<br/>6<br/>';
       echo json_decode($strPassat);
-      echo '<br/>7<br/>';
-      echo $result["name"];
 
       echo "<h2 class='text-center text-color-red'>".$contentPassat["name"]."</h2>";
       echo "<h3 class='text-center'>".$contentPassat["subName"]."</h3>";
