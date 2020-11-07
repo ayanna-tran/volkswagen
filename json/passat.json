@@ -1,0 +1,28 @@
+{
+  "name": "VOLKSWAGEN PASSAT BLUEMOTION",
+  "subName": "ĐẲNG CẤP DOANH NHÂN",
+  "cover": "./images/passat.jpg",
+  "main": [
+    {
+      "id": "tong-quan",
+      "title": "Tổng Quan",
+      "content": "- Passat Bluemotion là một chiếc Sedan hạng D chung phân khúc với Toyota Camry, Mazda6, Honda Accord. Passat toát lên vẻ lịch lãm, cứng cáp chuẩn xe sang dành cho doanh nhân. Qua 8 thế hệ phát triển Passat từng đoạt danh hiệu ''European Car of the Year'' vượt qua các tiêu chuẩn về an toàn và khí thải khắc khe của Châu Âu.
+      - Volkswagen Passat với phiên bản BlueMotion là phiên bản cao cấp nhất có mặt tại Việt Nam. Đúng với tên Bluemotion, Passat là một chiếc xe thân thiện với môi trường và tiết kiệm nhiên liệu."
+    },
+    {
+      "id": "thiet-ke",
+      "title": "Thiết kế",
+      "content": "Ngoại thất
+      · Kiểu dáng lịch lãm và cân xứng mang đậm phong cách thiết kế người Đức		
+      · Lưới tản nhiệt 4 nan ngang nối hai đèn pha cùng logo lớn nằm ở chính giữa					
+      · Huy hiêu “Bluemotion” gắn phía sau xe					
+      · Hai đường khí động học dập nổi tren nóc ca pô					
+      · Cụm đèn pha Led được thiết kế tinh tế và ẩn bên trong là dải Led xi nhan.					
+      ·  Gương hậu gập điện, chỉnh điện, và tích hợp báo rẽ					
+      ·  Mâm hợp kim Dartford 18-inch đặc trưng cứng cáp và tinh tế					
+      ·  Ống sả kép bên trái					
+      ·  Thân xe với những đường vân dập nổi mạnh mẽ					
+      ·  Thiết kế khí động học giúp xe lướt gió và dễ dàng tăng tốc độ"
+    }
+  ]
+}
