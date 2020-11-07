@@ -27,7 +27,12 @@
   <main>
     <?php
       $contentPassat = file_get_contents("/json/passat.json", true);
+
+
       echo $contentPassat;
+      echo "<h2 class='text-center text-color-red'>".$contentPassat["name"]."</h2>";
+      echo "<h3 class='text-center'>".$contentPassat["subName"]."</h3>";
+
     ?>
     <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
     <div class="container-lg">
@@ -35,11 +40,11 @@
         <img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" />
       </div>
       <ul class="menu-product">
-        <li><a href="#tong-quat">Tổng Quang</a></li>  
+        <li><a href="#tong-quan">Tổng Quan</a></li>  
       </ul>
       <div class="main-product">
         <div id="tong-quan" class="block-product">
-          <h3 class="title-block">TỔNG QUANG</h3>
+          <h3 class="title-block">TỔNG QUAN</h3>
           <div class="content-block"></div>
         </div>
       </div>
