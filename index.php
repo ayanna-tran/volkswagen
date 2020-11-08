@@ -134,6 +134,5 @@
   </main>
   <?php include 'footer.php';?>
 </body>
-<script src="./js/script.js"></script>
 <?php include 'configScript.php';?>
 </html>
