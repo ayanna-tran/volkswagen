@@ -24,3 +24,4 @@
     <div class="inner-footer text-center">Copyright © 2020 VOLKSWAGEN BÌNH DƯƠNG</div>
   </div>
 </footer>
+<a id="back2Top" title="Back to top" href="#">&#10148;</a>
