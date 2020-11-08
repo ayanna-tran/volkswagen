@@ -23,91 +23,176 @@
 </head>
 
 <body>
-  <header>
-    <h1 id="logo">
-      <a href="/">
-        <img src="./images/logo-volksgawen.png" alt="Volkwagen Bình Dương - Duy 090.734.33.71"/>
-      </a>
-    </h1>
-  </header>
+  <?php include 'header.php';?>
   <main>
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-        <!-- <li data-target="#carouselExampleCaptions" data-slide-to="2"></li> -->
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="./images/slide2.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Mr Duy - 090.734.33.71</h5>
-            <p>Nhận nhiều ưu đãi lớn</p>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="./images/slide3.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Duy - 090.734.33.71</h5>
-            <p>Nhận nhiều ưu đãi lớn</p>
-          </div>
-        </div>
-        <!-- <div class="carousel-item">
-          <img src="./images/slide3.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-          </div>
-        </div> -->
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
-    
-    <!-- <div class="technology v-block">
-      <div class="v-block__title">CÔNG NGHỆ</div>
-      <div class="v-block__inner">
-
-      </div>
-    </div> -->
-
     <h2 class="text-center text-color-red">POLO HATCHBACK</h2>
-    <div class="text-center"><img class="product-image" src="./images/polo.jpg" alt="POLO HATCHBACK" width="100%" /></div>
-  </main>
-  <footer class="bg-blue-dark">
-    <div class="menu-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 d-md-none d-lg-block">
-            <h3>FANPAGE FACEBOOK</h3>
-            <div class="fb-page" data-href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" data-tabs="timeline" data-width="200" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/">Duy_Volkswagen Bình Dương</a></blockquote></div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <h3>THÔNG TIN LIÊN HỆ</h3>
-            <strong>ĐẠI LÝ Ô TÔ VOLKSWAGEN BÌNH DƯƠNG</strong><br/>
-            <strong>Trụ sở chính: 7A/12A Đại lộ Bình Dương, khu phố Bình Đức 1, Thuận An, Bình Dương</strong><br/>
-            <strong>Hotline: 090 734 33 71</strong><br/>
-            <strong>Email: duy.trannhat@vwbinhduong.vn</strong>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <h3>BẢN ĐỒ</h3>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.771425780739!2d106.71060221480184!3d10.904968292234386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92e432e129027ffb!2zVlcgQsOsbmggRMawxqFuZyAtIMSQ4bqhaSBMw70gWGUgQ2jDrW5oIEjDo25nIFZvbGtzd2FnZW4gVmlldE5hbQ!5e0!3m2!1sen!2s!4v1604629052529!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <div class="container-lg">
+      <div class="cover-product">
+        <img class="product-image" src="./images/tong-quan.jpg" alt="POLO HATCHBACK 2020" width="100%" />
+      </div>
+
+      <div class="prom-block">
+        <ul>
+          <li>TẶNG TIỀN MẶT 11 TRIỆU  (CHỈ TRONG THÁNG 11)</li>
+          <li>TẶNG 1 NĂM BẢO DƯỠNG MIỄN PHÍ</li>
+          <li>TẶNG PHỦ NANO TOÀN THÂN XE</li>
+          <li>TẶNG DÁN FILM CÁCH NHIỆT 3M CHÍNH HÃNG</li>
+          <li>TẶNG BẢO TRÌ XE TRỌN ĐỜI</li>
+        </ul>
+      </div>
+
+      <ul class="menu-product">
+        <li><a href="#tong-quan">Tổng Quan</a></li>
+        <li><a href="#thiet-ke">Thiết kế</a></li> 
+        <li><a href="#thong-so-ky-thuat">Thông số kỹ thuật</a></li> 
+        <li><a href="#an-toan">An toàn</a></li>
+        <li><a href="#tien-nghi">Tiện nghi</a></li> 
+      </ul>
+      <div class="main-product">
+        <div id="tong-quan" class="block-product">
+          <h3 class="title-block">TỔNG QUAN</h3>
+          <div class="content-block">
+            <p>- Vơi doanh số lên tới 17 triệu chiếc trên toàn cầu. Polo xứng đáng với danh xưng chiếc xe gia đình. Ưu thế nhỏ gọn, khung gầm cứng chắc sẽ khiến quý khách khổng thể bỏ qua sự lựa chọn này.</p>
           </div>
         </div>
+
+        <div id="thiet-ke" class="block-product">
+          <h3 class="title-block">THIẾT KẾ</h3>
+          <div class="content-block">
+            <h4>Ngoại thất</h4>
+            <ul>
+              <li>Xe hatchback 5 cửa mang đậm nét nhẹ nhàng tinh tế chuẩn Châu Âu</li>
+              <li>Lưới tảng nhiệt được thiết kế mới trông lịch lãm hơn</li>
+              <li>Bộ ốp quanh xe mang tính thể thao hơn</li>
+              <li>Thiết kế hốc gió kèo dài ra 2 bên mang tính khí động học</li>
+              <li>Logo VW nằm vị trí trung tâm nổi bật</li>
+              <li>Đèn xe được thiết kế tinh tế</li>
+              <li> Mâm xe 10 chấu với kích thước 15-inch lịch lãm</li>
+              <li>Logo tích hợp lẫy mở cốp phía sau</li>
+            </ul>
+            <div class="photo">
+            <img src="./images/polo/p-2.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+            <div class="gallarys">
+              <div class="photo"><img src="./images/polo/p-3.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-4.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-5.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-6.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-7.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-15.jpg" alt="Ngoại Thất Polo Hatchback 2020" /></div>
+            </div>
+            <h4>Nội thất</h4>
+            <ul>
+              <li>Tay lái bọc da 3 chấu, vác cạnh tích hợp các phím đa chức năng</li>
+              <li>Vô lăng 3 chấu bọc da đa chức năng thiếu kế kiểu thể thao, tự thu lại khi va đập</li>
+              <li>Tay nắm cần số bọc da cao cấp</li>
+              <li>Khoang hành khách ngồi thoải mái 5 người</li>
+              <li>Khoang hành lý rộng rãi và lớn hơn nếu gập hàng ghế sau</li>
+            </ul>
+            <div class="gallarys">
+              <div class="photo"><img src="./images/polo/p-9.jpg" alt="Nội Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-10.jpg" alt="Nội Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-11.jpg" alt="Nội Thất Polo Hatchback 2020" /></div>
+              <div class="photo"><img src="./images/polo/p-12.jpg" alt="Nội Thất Polo Hatchback 2020" /></div>
+            </div>
+          </div>
+        </div>
+
+        <div id="thong-so-ky-thuat" class="block-product">
+          <h3 class="title-block">THÔNG SỐ KỸ THUẬT</h3>
+          <div class="content-block">
+            <h4>Động cơ</h4>
+            <div class="r-content">
+              <div class="r-title">Loại động cơ</div>
+              <div class="r-text">1.6 AT tự động 6 cấp</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Dung tích</div>
+              <div class="r-text">1598 cc</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Công suất cực đại (Hp/rpm)</div>
+              <div class="r-text">105</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Mômen xoắn cực đại (Nm/rpm)</div>
+              <div class="r-text">153 / 3750</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Hộp số</div>
+              <div class="r-text">Tự động 6 cấp</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Loại nhiên liệu</div>
+              <div class="r-text">Xăng chỉ số octan 95 trở lên</div>
+            </div>
+            <h4>Vận hành</h4>
+            <div class="r-content">
+              <div class="r-title">Dẫn động</div>
+              <div class="r-text">Cầu trước</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Tốc độ tối đa</div>
+              <div class="r-text">185 km/h</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Gia tốc 0-100km/h</div>
+              <div class="r-text">10.5 giây</div>
+            </div>
+            <h4>Kích thước</h4>
+            <div class="r-content">
+              <div class="r-title">Kích thước tổng thể DxRxC (mm)</div>
+              <div class="r-text">3972 x 1682 x 1462</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Chiều dài cơ sở (mm)</div>
+              <div class="r-text">2456</div>
+            </div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Thông số lốp</div>
+              <div class="r-text">165/60-R15</div>
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="an-toan" class="block-product">
+          <h3 class="title-block">AN TOÀN</h3>
+          <div class="content-block">
+            <p>- Tuy thuộc phân khúc xe gia đình nhưng Polo vẫn được sở hữu khung gầm nguyên khôi kèm phần khung trần được hàn laze kín với thân xe giúp tăng độ an toàn và tính thẩm mỹ.</p>
+            <div class="photo"><img src="./images/polo/an-toan-1.jpg" alt="An Toàn Polo Hatchback 2020" /></div>
+            <ul>
+              <li> Hệ thống chống bó cứng phanh ABS</li>
+              <li> Hệ thông cảm biến khoảng cách PDC</li>
+              <li> Dây đai an toàn 3 điểm cho các ghế</li>
+              <li>Túi khí dành cho lái xe và hành khách</li>
+              <li>Chức năng khóa an toàn cho trẻ em</li>
+            </ul>
+            <div class="photo"><img src="./images/polo/an-toan-2.jpg" alt="An Toàn Polo Hatchback 2020" /></div>
+          </div>
+        </div>
+
+        <div id="tien-nghi" class="block-product">
+          <h3 class="title-block">TIỆN NGHI</h3>
+          <div class="content-block">
+            <li> Hệ thống kiểm soát hành trình Cruise control</li>
+            <li> Đèn chiếu gần có chức năng điều chỉnh góc chiếu</li>
+            <li> Vô lăng trợ lực điện biến thiên theo tốc độ.</li>
+            <li>  Tích hợp số S cho cảm giác lái thể thao</li>
+            <li>  Màn hình giải trí cảm ứng 6.5-inch</li>
+            <li>  Camera lùi quan sát phía sau</li>
+            <li> Kính chỉnh điện, chống chói</li>
+            <li> Bánh dự phòng và dụng cụ mở</li>
+            <li> Cốp sau rộng rãi chứa được 4 túi golf</li>
+            <li> Âm thanh giải trí với 4 loa cao cấp</li>
+            </ul>
+          </div>
+        </div>
+
       </div>
     </div>
-    <div class="container">
-      <div class="inner-footer text-center">Copyright © 2020 VOLKSWAGEN BÌNH DƯƠNG</div>
-    </div>
-  </footer>
+  </main>
+  <?php include 'footer.php';?>
 </body>
-<!-- facebook -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v8.0&appId=394671930882478&autoLogAppEvents=1" nonce="nGJMZyJE"></script>
+<?php include 'configScript.php';?>
 </html>
