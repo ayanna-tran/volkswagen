@@ -28,7 +28,7 @@
     <h2 class="text-center text-color-red">POLO HATCHBACK</h2>
     <div class="container-lg">
       <div class="cover-product">
-        <img class="product-image" src="./images/tong-quan.jpg" alt="POLO HATCHBACK 2020" width="100%" />
+        <img class="product-image" src="./images/polo/tong-quan.jpg" alt="POLO HATCHBACK 2020" width="100%" />
       </div>
 
       <div class="prom-block">
