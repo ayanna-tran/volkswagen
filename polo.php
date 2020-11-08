@@ -52,7 +52,7 @@
         <div id="tong-quan" class="block-product">
           <h3 class="title-block">TỔNG QUAN</h3>
           <div class="content-block">
-            <p>- Vơi doanh số lên tới 17 triệu chiếc trên toàn cầu. Polo xứng đáng với danh xưng chiếc xe gia đình. Ưu thế nhỏ gọn, khung gầm cứng chắc sẽ khiến quý khách khổng thể bỏ qua sự lựa chọn này.</p>
+            <p>- Với doanh số lên tới 17 triệu chiếc trên toàn cầu. Polo xứng đáng với danh xưng chiếc xe gia đình. Ưu thế nhỏ gọn, khung gầm cứng chắc sẽ khiến quý khách không thể bỏ qua sự lựa chọn này.</p>
           </div>
         </div>
 
