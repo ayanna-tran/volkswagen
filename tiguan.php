@@ -23,92 +23,214 @@
 </head>
 
 <body>
-  <header>
-    <h1 id="logo">
-      <a href="/">
-        <img src="./images/logo-volksgawen.png" alt="Volkwagen Bình Dương - Duy 090.734.33.71"/>
-      </a>
-    </h1>
-  </header>
+  <?php include 'header.php';?>
   <main>
-    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-        <!-- <li data-target="#carouselExampleCaptions" data-slide-to="2"></li> -->
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img src="./images/slide2.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Mr Duy - 090.734.33.71</h5>
-            <p>Nhận nhiều ưu đãi lớn</p>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="./images/slide3.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Duy - 090.734.33.71</h5>
-            <p>Nhận nhiều ưu đãi lớn</p>
-          </div>
-        </div>
-        <!-- <div class="carousel-item">
-          <img src="./images/slide3.png" class="d-block w-100" alt="...">
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-          </div>
-        </div> -->
+    <h2 class="text-center text-color-red">PASSAT BLUEMOTION</h2>
+    <div class="container-lg">
+      <div class="cover-product">
+        <img class="product-image" src="./images/passat.jpg" alt="PASSAT BLUEMOTION" width="100%" />
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
+
+      <div class="prom-block">
+        <ul>
+          <li>TẶNG TIỀN MẶT 120 TRIỆU  (CHỈ TRONG THÁNG 11)</li>
+          <li>TẶNG 1 NĂM BẢO DƯỠNG MIỄN PHÍ</li>
+          <li>TẶNG PHỦ NANO TOÀN THÂN XE</li>
+          <li>TẶNG DÁN FILM CÁCH NHIỆT 3M CHÍNH HÃNG</li>
+          <li>TẶNG BẢO TRÌ XE TRỌN ĐỜI</li>
+          <li>TẶNG BỆ BƯỚC CHÍNH HÃNG</li>
+        </ul>
+      </div>
+
+      <ul class="menu-product">
+        <li><a href="#tong-quan">Tổng Quan</a></li>
+        <li><a href="#thiet-ke">Thiết kế</a></li> 
+        <li><a href="#thong-so-ky-thuat">Thông số kỹ thuật</a></li> 
+        <li><a href="#an-toan">An toàn</a></li> 
+      </ul>
+      <div class="main-product">
+        <div id="tong-quan" class="block-product">
+          <h3 class="title-block">TỔNG QUAN</h3>
+          <div class="content-block">
+            <p>- Tiguan luxury allspace là sản phẩm chiến lược của Volkswagen. Quý khách sẽ được tận hưởng những điều tuyệt vời nhất từ chiếc xe SUV 7 chỗ nhập khẩu mà chỉ với mức giá dưới 2 tỷ.</p>
+            <p>- Với vẻ ngoài lịch lãm, cứng cáp cùng những đường dập nổi tạo lên sự khỏe khoắn của một chiếc xe gầm cao. Tiguan luxury cả 2 phiên bản thường và luxury S đều được trang bị hệ thống lái. </p>
+          </div>
+        </div>
+
+        <div id="thiet-ke" class="block-product">
+          <h3 class="title-block">THIẾT KẾ</h3>
+          <div class="content-block">
+            <h4>Ngoại thất</h4>
+            <p>Với vẻ ngoài lịch lãm, cứng cáp cùng những đường dập nổi tạo lên sự khỏe khoắn của một chiếc xe gầm cao. Tiguan luxury cả 2 phiên bản thường và luxury S đều được trang bị hệ thống lái. </p>
+            <ul>
+              <li>Khung xe liền khối với kết cấu thép chịu lực</li>
+              <li>Lưới tản nhiệt mạnh mẽ đồng điệu với đường nét thiết kế đèn pha.</li>
+              <li> Logo VW lớn đánh bật thương hiệu</li>
+              <li>Giá nóc chất liệu nhôm cao cấp</li>
+              <li>Mâm đức hợp kim nhôm 19-inch 5 chấu với hình dáng trông giống Victoria Falls</li>
+              <li> Đèn sau chia làm 2 phần trên cốp và thân xe, với thiết kế chi tiết măt cáo</li>
+              <li> Ống xả 2 bên thể thao hình thang</li>
+              <li>Thân xe với những đường vân dập nổi mạnh mẽ</li>
+              <li>Thiết kế khí động học giúp xe lướt gió và dễ dàng tăng tốc độ</li>
+            </ul>
+            <div class="photo">
+            <img src="./images/passat/ngoai-that.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+            <div class="gallarys">
+              <div class="photo"><img src="./images/passat/ngoai-that-small-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-05.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/ngoai-that-small-06.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+            </div>
+            <h4>Nội thất</h4>
+            <ul>
+              <li>Nội thất thiết kế thời trang, tính tế và chắc chắn</li>
+              <li>Vô lăng 3 chấu bọc da đa chức năng thiếu kế kiểu thể thao, tự thu lại khi va đập</li>
+              <li>Hệ thống điều hòa 3 vùng độc lập</li>
+              <li>Màn hình giải trí đa phương tiện</li>
+              <li>Trang bị ghế da cao cấp</li>
+              <li>Khoang hành lý rộng rãi đủ cho 12 vali cở trung hoặc 4 túi golf lớn</li>
+              <li>Bánh dự phòng được sắp sếp gọn gàng ẩn dưới sàn khoang hành lý</li>
+              <li>Logo allspace ở cấp sau</li>
+            </ul>
+            <div class="gallarys">
+              <div class="photo"><img src="./images/passat/noi-that-01.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-02.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-03.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+              <div class="photo"><img src="./images/passat/noi-that-04.jpg" alt="Ngoại Thất Passat Bluemotion 2020" /></div>
+            </div>
+          </div>
+        </div>
+
+        <div id="thong-so-ky-thuat" class="block-product">
+          <h3 class="title-block">THÔNG SỐ KỸ THUẬT</h3>
+          <div class="content-block">
+            <h4>Động cơ</h4>
+            <div class="r-content">
+              <div class="r-title">Loại động cơ</div>
+              <div class="r-text">TSI turbo tăng áp, phun nhiên liệu trực tiếp</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Dung tích</div>
+              <div class="r-text">1984 cc</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Công suất cực đại (Hp/rpm)</div>
+              <div class="r-text">180</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Mômen xoắn cực đại (Nm/rpm)</div>
+              <div class="r-text">320 / 1500-3940</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Hộp số</div>
+              <div class="r-text">Tự động ly hợp kép 7 cấp</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Loại nhiên liệu</div>
+              <div class="r-text">Xăng chỉ số octan 95 trở lên</div>
+            </div>
+            <h4>Vận hành</h4>
+            <div class="r-content">
+              <div class="r-title">Dẫn động</div>
+              <div class="r-text">4Motion 2 cầu 4 bánh chủ động toàn thời gian biến thiên</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Tốc độ tối đa</div>
+              <div class="r-text">208 km/h</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Gia tốc 0-100km/h</div>
+              <div class="r-text">7.8 giây</div>
+            </div>
+            <h4>Kích thước</h4>
+            <div class="r-content">
+              <div class="r-title">Kích thước tổng thể DxRxC (mm)</div>
+              <div class="r-text">4701 x 1839 x 1674</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Chiều dài cơ sở (mm)</div>
+              <div class="r-text">279</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Thông số lốp</div>
+              <div class="r-text">235/50-R19</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Đường kính quay vòng (m)</div>
+              <div class="r-text">5,1</div>
+            </div>
+            <div class="r-content">
+              <div class="r-title">Tự trọng (kg)</div>
+              <div class="r-text">1,780</div>
+            </div>
+          </div>
+        </div>
+
+        <div id="an-toan" class="block-product">
+          <h3 class="title-block">AN TOÀN</h3>
+          <div class="content-block">
+            <p>- Khung và gầm xe làm từ thép Đức có độ cứng cao. Về công nghệ luyện kim Đức được sếp hàng đầu thế giới. gầm xe được phủ lớp sáp chống ăn mòn nước mặn giúp xe khó bị gỉ sét khi vận hành.</p>
+            <p>- Thiết kế động cơ sẽ có xu hướng rơi xuống và vô lăng tự thu và bung túi khí khi sảy ra va chạm giúp hạn chế chấn thương cho hành khách.</p> 
+            <p>- Hệ thống 6 túi khí theo công nghệ Đức được thiết kế và vận hành tốt, ngoài ra túi khí hành khách có thể khóa hoặc mở khóa giúp hạn chế tổn phí nếu như trường hợp va chạm sảy ra.</p>
+            <h4>Ngoài ra Tiguan luxury allspace 2019 có tiện nghi và hệ thống an toàn khác như.</h4>
+            <ul>
+              <li>Hệ thống ABS,BA,ASR,PDC,ESC</li>
+              <li>Chức năng tự động phanh hỗ trợ đổ xe</li>
+              <li>Chức năng Auto-hold chống trôi xe</li>
+              <li>Hỗ trợ khởi hành ngang dốc</li>
+              <li>Hỗ trợ đỗ xe (PA)</li>
+              <li>Hỗ trợ đỗ đèo</li>
+              <li> Camera 360 với bản Luxury S và camera lùi với bản Luxury</li>
+              <li>Kiểm soát hành trình</li>
+              <li>Hệ thống cảnh báo tài xế, cảnh báo áp suất lốp, lốp xe tự vá.</li>
+              <li>Kiểm soát cự ly đỗ xe (PDC)</li>
+              <li>Phanh khẩn cấp (AEB)</li>
+              <li>Công nghệ kiểm soát tài xế (Driver alert system)</li>
+              <li>Hệ thống khởi động bằng nút bấm</li>
+              <li>Hệ thống ga tự động</li>
+              <li>Trợ lực lái điện biến thiên theo tốc độ.</li>
+              <li>Cần gạt cảm biến mưa</li>
+              <li>Lọc mùi không khí</li>
+              <li>Hệ thống kết nối ghế an toàn cho trẻ em</li>
+              <li>Tùy chỉnh thời gian tắt đèn khi rời xe</li>
+              <li>Trang bị lốp dự phòng</li>
+              <li>Bu lông chống trộm bánh xe</li>
+              <li>Đèn tự mở rộng góc chiếu khi vào cua</li>
+              <li>Ghế chỉnh định 12 hướng</li>
+              <li>Gương chiếu hậu chống chói, sấy kính.</li>
+              <li>Hệ thống dây đai an toàn 3 điểm công nghệ mới nhất</li>
+            </ul>
+      <div id="van-hanh" class="block-product">
+          <h3 class="title-block">VẬN HÀNH</h3>
+          <div class="content-block">
+            <p>- Động cơ</p>
+            <p>- Tiguan được trang bị động cơ TSI 2.0 turbo tăng áp. Đây được coi là trái tim của chiếc xe chiến lược này. Động cơ TSI được liên hệ giống cơi TFSI trang bị trên Audi. Hệ thống turbo hoạt động nhờ sức thổi của khí thải làm quay hệ thống turbin. Việc lợi dụng sức của khí thải sẽ làm cho động cơ không tốn thêm nhiên liệu cho việc kích hoạt turbo. Kèm với đó công nghệ phun nhiên liệu trực tiếp kèm phun gián tiếp sẽ giúp động cơ linh hoạt cho từng phong cách và tình huống chạy. Với sự kết hợp của công nghệ trên sẽ giúp quý khách hàng an tâm về công suất, khả năng vượt xe và tiết kiệm nhiên liệu.</p>
+            <p> -Hộp số </p>
+            <p> -Sử dụng hộp số tự động ly hợp kép 7 cấp giống với người anh em ruột Porsche giúp việc lái xe trở nên mượt mà, tốc độ sang số nhanh, hạn chế tối đa độ trễ khi tăng tốc. Chi tiết cấu thành </p>
+            <p> 4Motion </p>
+            <p> -Hệ thống 4motion là hệ thống chuyển động 4 bánh độc lập toàn thời gian biến thiên. Tiguan sở hữu hệ thống vận hành 2 cầu kèm hệ thống  4motion nhằm tối ưu hóa khả năng đi trên mọi </p>
+      <div id="tien-nghi" class="block-product">
+          <h3 class="title-block">TIỆN NGHI</h3>
+          <div class="content-block">
+            <li> Hàng ghế trước chỉnh điện 12 hướng, massage (luxury), nhớ ghế (luxury S)</li>
+            <li> Chức năng sưởi ghế và bơm hơi ở hàng ghế trước</li>
+            <li>Đồng hồ trung tâm Digital Cockpit 12.3-inch tùy chỉnh 3 giao diện và đa màu sắc</li>
+            <li> Hệ thống Cruise control và speed limit</li>
+            <li> Màn hình giải trí đa chức năng 8-inch kết nối app-connect</li>
+            <li> Gương chiếu hậu chỉnh điện, sưởi điện tích hợp báo rẽ</li>
+            <li> Âm thanh 8 loa cao cấp</li>
+            <li> Điều hòa 3 vùng độc lập</li>
+            <li> Cốp sau đống mở thông minh với chức năng đá mở cốp</li>
+            <li> Trang bị bánh dự phòng 18-inch và bộ dụng cụ mở</li>
+          </div>
+        </div>
+
+      </div>
     </div>
-    
-    <!-- <div class="technology v-block">
-      <div class="v-block__title">CÔNG NGHỆ</div>
-      <div class="v-block__inner">
-
-      </div>
-    </div> -->
-
-    <h2 class="text-center text-color-red">TIGUAN LUXURY ALLSPACE</h2>
-    <div class="text-center"><img class="product-image" src="./images/tiguan.png" alt="TIGUAN LUXURY" width="100%" /></div>
-
   </main>
-  <footer class="bg-blue-dark">
-    <div class="menu-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 d-md-none d-lg-block">
-            <h3>FANPAGE FACEBOOK</h3>
-            <div class="fb-page" data-href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" data-tabs="timeline" data-width="200" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Duy_Volkswagen-B%C3%ACnh-D%C6%B0%C6%A1ng-112733500605310/">Duy_Volkswagen Bình Dương</a></blockquote></div>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <h3>THÔNG TIN LIÊN HỆ</h3>
-            <strong>ĐẠI LÝ Ô TÔ VOLKSWAGEN BÌNH DƯƠNG</strong><br/>
-            <strong>Trụ sở chính: 7A/12A Đại lộ Bình Dương, khu phố Bình Đức 1, Thuận An, Bình Dương</strong><br/>
-            <strong>Hotline: 090 734 33 71</strong><br/>
-            <strong>Email: duy.trannhat@vwbinhduong.vn</strong>
-          </div>
-          <div class="col-lg-4 col-md-6 col-sm-12">
-            <h3>BẢN ĐỒ</h3>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.771425780739!2d106.71060221480184!3d10.904968292234386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92e432e129027ffb!2zVlcgQsOsbmggRMawxqFuZyAtIMSQ4bqhaSBMw70gWGUgQ2jDrW5oIEjDo25nIFZvbGtzd2FnZW4gVmlldE5hbQ!5e0!3m2!1sen!2s!4v1604629052529!5m2!1sen!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="inner-footer text-center">Copyright © 2020 VOLKSWAGEN BÌNH DƯƠNG</div>
-    </div>
-  </footer>
+  <?php include 'footer.php';?>
 </body>
-<!-- facebook -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v8.0&appId=394671930882478&autoLogAppEvents=1" nonce="nGJMZyJE"></script>
+<?php include 'configScript.php';?>
 </html>

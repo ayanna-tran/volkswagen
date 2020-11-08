@@ -207,6 +207,19 @@
               <li>Hệ thống camera lùi ẩn sau logo.</li>
               <li>Hệ thống trợ lực lái điện biến thiên theo tốc độ</li>
               <li>Hệ thống dây đai an toàn 3 điểm công nghệ mới nhất</li>
+      <div id="tien-nghi" class="block-product">
+          <h3 class="title-block">TIỆN NGHI</h3>
+          <div class="content-block">
+            <li> Hàng ghế trước chỉnh điện 12 hướng, massage, nhớ ghế</li>
+            <li> Chức năng sưởi ghế và bơm hơi ở hàng ghế trước</li>
+            <li>Đồng hồ trung tâm kết hợp cơ và kỹ thuật số.</li>
+            <li> Hệ thống Cruise control và speed limit</li>
+            <li> Màn hình giải trí đa chức năng 8-inch</li>
+            <li> Gương chiếu hậu chỉnh điện, sưởi điện tích hợp báo rẽ</li>
+            <li> Âm thanh 8 loa cao cấp</li>
+            <li> Điều hòa 3 vùng độc lập</li>
+            <li> Cốp sau rộng rãi chứa được 4 túi golf</li>
+            <li> Trang bị bánh dự phòng và bộ dụng cụ mở</li>
             </ul>
           </div>
         </div>
