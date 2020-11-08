@@ -153,8 +153,6 @@
               <div class="r-text">165/60-R15</div>
             </div>
             </div>
-          </div>
-        </div>
 
         <div id="an-toan" class="block-product">
           <h3 class="title-block">AN TOÀN</h3>
