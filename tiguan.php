@@ -55,7 +55,7 @@
             <p>- Tiguan luxury allspace là sản phẩm chiến lược của Volkswagen. Quý khách sẽ được tận hưởng những điều tuyệt vời nhất từ chiếc xe SUV 7 chỗ nhập khẩu mà chỉ với mức giá dưới 2 tỷ.</p>
             <p>- Với vẻ ngoài lịch lãm, cứng cáp cùng những đường dập nổi tạo lên sự khỏe khoắn của một chiếc xe gầm cao. Tiguan luxury cả 2 phiên bản thường và luxury S đều được trang bị hệ thống lái. </p>
           <div class="photo">
-            <img src="./images/tiguan/tong-quan.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/tong-quan-1.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
           </div>
         </div>
 
@@ -79,14 +79,14 @@
               <li>Thiết kế khí động học giúp xe lướt gió và dễ dàng tăng tốc độ</li>
             </ul>
             <div class="photo">
-            <img src="./images/tiguan/1.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/t-1.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
             <div class="gallarys">
-              <div class="photo"><img src="./images/tiguan/2.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/3.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/18.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/6.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/7.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/19.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-2.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-3.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-18.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-6.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-7.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-19.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
             </div>
             <h4>Nội thất</h4>
             <ul>
@@ -99,13 +99,13 @@
               <li>Bánh dự phòng được sắp sếp gọn gàng ẩn dưới sàn khoang hành lý</li>
               <li>Logo allspace ở cốp sau</li>
             <div class="gallarys">
-              <div class="photo"><img src="./images/tiguan/8.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/9.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/16.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/15.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/14.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/22.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
-              <div class="photo"><img src="./images/tiguan/21.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-8.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-9.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-16.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-15.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-14.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-22.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
+              <div class="photo"><img src="./images/tiguan/t-21.jpg" alt="Nội Thất Tiguan Luxury allspace 2020" /></div>
             </ul>
             </div>
           </div>
@@ -216,15 +216,15 @@
             <p>- Động cơ</p>
             <p>- Tiguan được trang bị động cơ TSI 2.0 turbo tăng áp. Đây được coi là trái tim của chiếc xe chiến lược này. Động cơ TSI được liên hệ giống cơi TFSI trang bị trên Audi. Hệ thống turbo hoạt động nhờ sức thổi của khí thải làm quay hệ thống turbin. Việc lợi dụng sức của khí thải sẽ làm cho động cơ không tốn thêm nhiên liệu cho việc kích hoạt turbo. Kèm với đó công nghệ phun nhiên liệu trực tiếp kèm phun gián tiếp sẽ giúp động cơ linh hoạt cho từng phong cách và tình huống chạy. Với sự kết hợp của công nghệ trên sẽ giúp quý khách hàng an tâm về công suất, khả năng vượt xe và tiết kiệm nhiên liệu.</p>
             <div class="photo">
-            <img src="./images/tiguan/25.jpg" alt="Động Cơ Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/dong co.jpg" alt="Động Cơ Tiguan Luxury allspace 2020" /></div>
             <p> -Hộp số </p>
             <p> -Sử dụng hộp số tự động ly hợp kép 7 cấp giống với người anh em ruột Porsche giúp việc lái xe trở nên mượt mà, tốc độ sang số nhanh, hạn chế tối đa độ trễ khi tăng tốc. Chi tiết cấu thành </p>
             <div class="photo">
-            <img src="./images/tiguan/14.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/t-14.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
             <p> 4Motion </p>
             <p> -Hệ thống 4motion là hệ thống chuyển động 4 bánh độc lập toàn thời gian biến thiên. Tiguan sở hữu hệ thống vận hành 2 cầu kèm hệ thống  4motion nhằm tối ưu hóa khả năng đi trên mọi </p>
             <div class="photo">
-            <img src="./images/tiguan/15.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/t-15.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
       <div id="tien-nghi" class="block-product">
           <h3 class="title-block">TIỆN NGHI</h3>
           <div class="content-block">
@@ -232,7 +232,7 @@
             <li> Chức năng sưởi ghế và bơm hơi ở hàng ghế trước</li>
             <li>Đồng hồ trung tâm Digital Cockpit 12.3-inch tùy chỉnh 3 giao diện và đa màu sắc</li>
             <div class="photo">
-            <img src="./images/tiguan/24.jpg" alt="Digital Cockpit Tiguan Luxury allspace 2020" /></div>
+            <img src="./images/tiguan/t-24.jpg" alt="Digital Cockpit Tiguan Luxury allspace 2020" /></div>
             <li> Hệ thống Cruise control và speed limit</li>
             <li> Màn hình giải trí đa chức năng 8-inch kết nối app-connect</li>
             <li> Gương chiếu hậu chỉnh điện, sưởi điện tích hợp báo rẽ</li>
