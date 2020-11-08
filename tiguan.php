@@ -213,15 +213,15 @@
       <div id="van-hanh" class="block-product">
           <h3 class="title-block">VẬN HÀNH</h3>
           <div class="content-block">
-            <p>- Động cơ</p>
+            <h4>Động cơ</h4>
             <p>- Tiguan được trang bị động cơ TSI 2.0 turbo tăng áp. Đây được coi là trái tim của chiếc xe chiến lược này. Động cơ TSI được liên hệ giống cơi TFSI trang bị trên Audi. Hệ thống turbo hoạt động nhờ sức thổi của khí thải làm quay hệ thống turbin. Việc lợi dụng sức của khí thải sẽ làm cho động cơ không tốn thêm nhiên liệu cho việc kích hoạt turbo. Kèm với đó công nghệ phun nhiên liệu trực tiếp kèm phun gián tiếp sẽ giúp động cơ linh hoạt cho từng phong cách và tình huống chạy. Với sự kết hợp của công nghệ trên sẽ giúp quý khách hàng an tâm về công suất, khả năng vượt xe và tiết kiệm nhiên liệu.</p>
             <div class="photo">
             <img src="./images/tiguan/dong co.jpg" alt="Động Cơ Tiguan Luxury allspace 2020" /></div>
-            <p> -Hộp số </p>
+            <h4>Hộp số </h4>
             <p> -Sử dụng hộp số tự động ly hợp kép 7 cấp giống với người anh em ruột Porsche giúp việc lái xe trở nên mượt mà, tốc độ sang số nhanh, hạn chế tối đa độ trễ khi tăng tốc. Chi tiết cấu thành </p>
             <div class="photo">
             <img src="./images/tiguan/t-14.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
-            <p> 4Motion </p>
+            <h4> 4Motion </h4>
             <p> -Hệ thống 4motion là hệ thống chuyển động 4 bánh độc lập toàn thời gian biến thiên. Tiguan sở hữu hệ thống vận hành 2 cầu kèm hệ thống  4motion nhằm tối ưu hóa khả năng đi trên mọi </p>
             <div class="photo">
             <img src="./images/tiguan/t-15.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
