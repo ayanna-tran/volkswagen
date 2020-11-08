@@ -28,7 +28,7 @@
     <h2 class="text-center text-color-red">TIGUAN LUXURY ALLSPACE</h2>
     <div class="container-lg">
       <div class="cover-product">
-        <img class="product-image" src="./images/tiguan.jpg" alt="TIGUAN LUXURY ALLSPACE" width="100%" />
+        <img class="product-image" src="./images/tiguan.png" alt="TIGUAN LUXURY ALLSPACE" width="100%" />
       </div>
 
       <div class="prom-block">
@@ -64,10 +64,11 @@
           <div class="content-block">
             <h4>Ngoại thất</h4>
             <p>Với vẻ ngoài lịch lãm, cứng cáp cùng những đường dập nổi tạo lên sự khỏe khoắn của một chiếc xe gầm cao. Tiguan luxury cả 2 phiên bản thường và luxury S đều được trang bị hệ thống lái. </p>
-            <ul>
             <div class="gallarys">
               <div class="photo"><img src="./images/tiguan/ngoai-that-1.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
               <div class="photo"><img src="./images/tiguan/ngoai-that-2.jpg" alt="Ngoại Thất Tiguan Luxury allspace 2020" /></div>
+            </div>
+            <ul>
               <li>Khung xe liền khối với kết cấu thép chịu lực</li>
               <li>Lưới tản nhiệt mạnh mẽ đồng điệu với đường nét thiết kế đèn pha.</li>
               <li> Logo VW lớn đánh bật thương hiệu</li>
@@ -210,7 +211,10 @@
               <li>Gương chiếu hậu chống chói, sấy kính.</li>
               <li>Hệ thống dây đai an toàn 3 điểm công nghệ mới nhất</li>
             </ul>
-      <div id="van-hanh" class="block-product">
+          </div>
+        </div>
+
+        <div id="van-hanh" class="block-product">
           <h3 class="title-block">VẬN HÀNH</h3>
           <div class="content-block">
             <h4>Động cơ</h4>
@@ -225,7 +229,10 @@
             <p> -Hệ thống 4motion là hệ thống chuyển động 4 bánh độc lập toàn thời gian biến thiên. Tiguan sở hữu hệ thống vận hành 2 cầu kèm hệ thống  4motion nhằm tối ưu hóa khả năng đi trên mọi </p>
             <div class="photo">
             <img src="./images/tiguan/t-15.jpg" alt="Hộp Số Tiguan Luxury allspace 2020" /></div>
-      <div id="tien-nghi" class="block-product">
+          </div>
+        </div>
+
+        <div id="tien-nghi" class="block-product">
           <h3 class="title-block">TIỆN NGHI</h3>
           <div class="content-block">
             <li> Hàng ghế trước chỉnh điện 12 hướng, massage (luxury), nhớ ghế (luxury S)</li>
