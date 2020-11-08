@@ -207,7 +207,11 @@
               <li>Hệ thống camera lùi ẩn sau logo.</li>
               <li>Hệ thống trợ lực lái điện biến thiên theo tốc độ</li>
               <li>Hệ thống dây đai an toàn 3 điểm công nghệ mới nhất</li>
-      <div id="tien-nghi" class="block-product">
+            </ul>
+          </div>
+        </div>
+
+        <div id="tien-nghi" class="block-product">
           <h3 class="title-block">TIỆN NGHI</h3>
           <div class="content-block">
             <li> Hàng ghế trước chỉnh điện 12 hướng, massage, nhớ ghế</li>
