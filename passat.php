@@ -45,7 +45,8 @@
         <li><a href="#tong-quan">Tổng Quan</a></li>
         <li><a href="#thiet-ke">Thiết kế</a></li> 
         <li><a href="#thong-so-ky-thuat">Thông số kỹ thuật</a></li> 
-        <li><a href="#an-toan">An toàn</a></li> 
+        <li><a href="#an-toan">An toàn</a></li>
+        <li><a href="#tien-nghi">Tiện nghi</a></li> 
       </ul>
       <div class="main-product">
         <div id="tong-quan" class="block-product">
